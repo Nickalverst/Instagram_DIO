@@ -1,5 +1,5 @@
 # Instagram_DIO
-Resultado do curso "Recriando a página inicial do Instagram", da Digital Innovation One.
+Resultado do curso "Recriando a página inicial do Instagram", ministrado por [Gabriela Pinheiro](https://github.com/SpruceGabriela "Gabriela Pinheiro") na plataforma [Digital Innovation One](https://digitalinnovation.one/ "Digital Innovation One").
 
 ### Descrição
 
